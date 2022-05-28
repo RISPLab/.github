@@ -9,9 +9,9 @@
 - 🔭 Modeling the propagation of shocks on economic networks
 - 🤔 ...
 
-If you'd like to explore more about our work, here are some latest works from **`CCENET`** members:
+If you'd like to explore more about our work, here are some latest articles from **`CCENET`** members:
 
-- 👩‍👩‍👦‍👦 [Modeling the emission trading scheme from an agent-based perspective: System dynamics emerging from firms’ coordination among abatement options](https://doi.org/10.1016/j.ejor.2020.03.080)(European Journal of Operational Research, 2020)
+- 👩‍👩‍👦‍👦 [Modeling the emission trading scheme from an agent-based perspective: System dynamics emerging from firms’ coordination among abatement options](https://doi.org/10.1016/j.ejor.2020.03.080) (European Journal of Operational Research, 2020)
 - ✈️ [Global supply-chain effects of COVID-19 control measures](https://doi.org/10.1038/s41562-020-0896-8) (Nature Human Behaviour, 2020)
 - 🗼 [COVID-19, global emissions and the Paris Agreement](https://doi.org/10.1038/s41558-020-00977-5) (Nature Climate Change, 2021)
 - 🔥 [Economic footprint of California wildfires in 2018](https://doi.org/10.1038/s41893-020-00646-7) (Nature Sustainability, 2021)
