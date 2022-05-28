@@ -9,7 +9,7 @@
 - 🔭 Modeling the propagation of shocks on economic networks
 - 🤔 ...
 
-If you'd like to explore more about our work, here are some latest works from `CCENET` members:
+If you'd like to explore more about our work, here are some latest works from **`CCENET`** members:
 
 - ✈️ [Global supply-chain effects of COVID-19 control measures](https://doi.org/10.1038/s41562-020-0896-8) (Nature Human Behaviour, 2020)
 - 🗼 [COVID-19, global emissions and the Paris Agreement](https://doi.org/10.1038/s41558-020-00977-5) (Nature Climate Change, 2021)
