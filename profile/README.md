@@ -10,7 +10,7 @@
 
 >- 🤖 Exploring machine learning potential for climate change risk assessment
 >- 🏭 Developing methodologies for companies, investors, and insurers to calculate greenhouse gas emissions across value chains
->- ⚡ Developing methodologies for companies, investors, and insurers to assess the climate-related financial risks - both physical and transition risks - facing their sector.
+>- ⚡ Developing methodologies for companies, investors, and insurers to assess the climate-related financial risks
 
 >- 💡 Exploring how machine learning can help tackle climate change
 >- 🤔 ...
