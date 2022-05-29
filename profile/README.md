@@ -24,5 +24,6 @@ If you'd like to explore more about our work, here are some latest articles from
 >- 🕛 ...
 
 Follow us:
-![CEADsWeChat](image/CEADsWeChatW.jpg) ![CCENETBili](image/CCENETBilibiliW.jpg)
+
+![CEADsWeChat](profile/image/CEADsWeChatW.jpg) ![CCENETBili](profile/image/CCENETBilibiliW.jpg)
 
