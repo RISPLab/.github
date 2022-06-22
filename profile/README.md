@@ -25,5 +25,4 @@ If you'd like to explore more about our work, here are some latest articles from
 
 Follow us:
 
-![WeChat:CCENET](profile/image/CCENETWeChatW.jpg) ![WeChat:ceads-net](profile/image/CEADsWeChatW.jpg) ![Bilibili:CCENET](profile/image/CCENETBilibiliW.jpg)
-
+![WeChat:CCENET](https://tva4.sinaimg.cn/large/71e72343gy1h3guihkcxij208c046dfz.jpg)  ![Bilibili:CCENET](https://tva4.sinaimg.cn/large/71e72343gy1h3gujyzr6bj208c046aac.jpg)
