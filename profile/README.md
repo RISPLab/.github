@@ -1,8 +1,6 @@
-### Welcome to `CCENET` 👋
+### Welcome to `Risk Intelligence Lab` 👋
 
-**`CCENET`** is a network for climate change economists who try to find feasible solutions for climate change from a network/linkage perspective.
-
-**`CCENET`** members are working together on:
+**`Risk Intelligence Lab`** members are working together on:
 
 >- 🌐 Developing new theories of economics from a network perspective
 >- 🌍 Developing BRIDGE series models that bridge different natural and economic systems
@@ -23,6 +21,3 @@ If you'd like to explore more about our work, here are some latest articles from
 >- 🔥 [Economic footprint of California wildfires in 2018](https://doi.org/10.1038/s41893-020-00646-7) (Nature Sustainability, 2021)
 >- 🕛 ...
 
-Follow us:
-
-![WeChat:CCENET](https://tva4.sinaimg.cn/large/71e72343gy1h3guihkcxij208c046dfz.jpg)  ![Bilibili:CCENET](https://tva4.sinaimg.cn/large/71e72343gy1h3gujyzr6bj208c046aac.jpg)
