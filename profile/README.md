@@ -1,6 +1,6 @@
-### Welcome to `Risk Intelligence Lab` 👋
+### Welcome to `Risk Intelligence: Strategy & Planning (RISP) Lab` 👋
 
-**`Risk Intelligence Lab`** members are working together on:
+**`RISP`** members are working together on:
 
 >- 🌐 Developing new theories of economics from a network perspective
 >- 🌍 Developing BRIDGE series models that bridge different natural and economic systems
@@ -13,7 +13,7 @@
 >- 💡 Exploring how machine learning can help tackle climate change
 >- 🤔 ...
 
-If you'd like to explore more about our work, here are some latest articles from **`CCENET`** members:
+If you'd like to explore more about our work, here are some latest articles from **`RISP`** members:
 
 >- 👩‍👩‍👦‍👦 [Modeling the emission trading scheme from an agent-based perspective](https://doi.org/10.1016/j.ejor.2020.03.080) (European Journal of Operational Research, 2020)
 >- ✈️ [Global supply-chain effects of COVID-19 control measures](https://doi.org/10.1038/s41562-020-0896-8) (Nature Human Behaviour, 2020)
